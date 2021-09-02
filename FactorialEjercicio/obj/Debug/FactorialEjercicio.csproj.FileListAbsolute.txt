@@ -1,0 +1,6 @@
+c:\users\digis\documents\visual studio 2013\Projects\ExamenTurboPacFactorial\FactorialEjercicio\bin\Debug\FactorialEjercicio.exe.config
+c:\users\digis\documents\visual studio 2013\Projects\ExamenTurboPacFactorial\FactorialEjercicio\bin\Debug\FactorialEjercicio.exe
+c:\users\digis\documents\visual studio 2013\Projects\ExamenTurboPacFactorial\FactorialEjercicio\bin\Debug\FactorialEjercicio.pdb
+c:\users\digis\documents\visual studio 2013\Projects\ExamenTurboPacFactorial\FactorialEjercicio\obj\Debug\FactorialEjercicio.csprojResolveAssemblyReference.cache
+c:\users\digis\documents\visual studio 2013\Projects\ExamenTurboPacFactorial\FactorialEjercicio\obj\Debug\FactorialEjercicio.exe
+c:\users\digis\documents\visual studio 2013\Projects\ExamenTurboPacFactorial\FactorialEjercicio\obj\Debug\FactorialEjercicio.pdb
